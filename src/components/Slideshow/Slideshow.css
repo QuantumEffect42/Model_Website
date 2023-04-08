@@ -1,0 +1,27 @@
+@import "react-slideshow-image/dist/styles.css";
+
+.slide1{
+    width: 100%;
+    height: 800px;
+    background: url("../../images/Aircraft/AH1Viper/20221125_000556.jpg") no-repeat center;
+    background-size: contain;
+}
+
+.slide2{
+    width: 100%;
+    height: 800px;
+    background: url("../../images/Gundams/RedFrameAstray/20230108_172037.jpg") no-repeat center;
+    background-size: contain;
+}
+
+.slide3{
+    width: 100%;
+    height: 800px;
+    background: url("../../images/Other/HitachiExcavator/20230207_221912.jpg") no-repeat center;
+    background-size: contain;
+}
+
+.slideContainer{
+    border-top: 2px solid black;
+    background-color: #36404d;
+}

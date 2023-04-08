@@ -3,11 +3,52 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { 
+  createBrowserRouter, 
+  RouterProvider, 
+} from "react-router-dom";
+import Aircraft32 from './pages/Aircraft/32ndScale';
+import Aircraft48 from './pages/Aircraft/48thScale';
+import Ground35 from './pages/Ground/35thScale';
+import Ground42 from './pages/Ground/42ndScale';
+import MGGundams from './pages/Gundams/MG';
+import RGGundams from './pages/Gundams/RG';
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <App />
+  },
+  {
+    path: "/135GroundVehicles",
+    element: <Ground35 />
+  },
+  {
+    path: "/142GrondVehicles",
+    element: <Ground42 />
+  },
+  {
+    path: "/132Aircraft",
+    element: <Aircraft32 />
+  },
+  {
+    path: "/148Aircraft",
+    element: <Aircraft48 />
+  },
+  {
+    path: "/MGGundams",
+    element: <MGGundams />
+  },
+  {
+    path: "/RGGundams",
+    element: <RGGundams />
+  },
+]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
 

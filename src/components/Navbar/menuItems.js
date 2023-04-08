@@ -9,11 +9,11 @@ export const menuItems = [
         submenu: [
             {
                 title: "1:35",
-                url:"/",
+                url:"/135GroundVehicles",
             },
             {
                 title: "1:42",
-                url: "/",
+                url: "/142GroundVehicles",
             }
         ],
     },
@@ -23,11 +23,11 @@ export const menuItems = [
         submenu: [
             {
                 title: "1:32",
-                url:"/",
+                url:"/132Aircraft",
             },
             {
                 title: "1:48",
-                url:"/",
+                url:"/148Aircraft",
             }
         ],
     },
@@ -37,16 +37,16 @@ export const menuItems = [
         submenu: [
             {
                 title: "MG",
-                url: "/",
+                url: "/MGGundams",
             },
             {
                 title: "RG",
-                url: "/",
+                url: "/RGGundams",
             }
         ],
     },
     {
         title: "Other Models",
-        url: "OtherModels",
+        url: "/OtherModels",
     }
 ]

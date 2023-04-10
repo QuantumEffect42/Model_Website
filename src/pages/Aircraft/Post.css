@@ -1,0 +1,29 @@
+.Titlebar, .Post{
+    margin:auto;
+    width: 50%;
+    text-align: left;
+    font-family: 'Cormorant Garamond';
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.Kit-Name{
+    font-weight: normal;
+    margin-bottom: 25px;
+    font-size: 28pt;
+}
+
+.Post-Embed-Image{
+    width: 120%;
+    height: 30%;
+    margin-bottom: 2rem;
+}
+
+.Kit-Desc{
+    font-size: 17pt;
+}
+
+.Post-Text{
+    font-size: 14pt;
+    width: 110%;
+    margin-bottom: 25px;
+}

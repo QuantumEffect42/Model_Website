@@ -24,7 +24,7 @@ const AH1ZViper = () =>{
                         for this kit, I knew I just had to add one to my shelf. Opening the kit and examining the sprues, I could immediately 
                         tell that this kit was absolutely worth hype. The molding on the parts was out of this world; the entire tail beam
                         from the main body to the sabilizers and the tail rotor, was cast using slide molding. Words can't really express how
-                        happy seeing how well engineered this kit was, I was over the moon that I wouldn't have to sacrificae much, if any,
+                        happy seeing how well engineered this kit was, I was over the moon that I wouldn't have to sacrifice much, if any,
                         detail from surface of this kit filling gaps and pannel lines.
                     </p>
                     <p className="Post-Text">
@@ -49,7 +49,7 @@ const AH1ZViper = () =>{
                         Xf-1. There are a few switches in the AH-1Z that have red covers, thus, these were painted with some Xf-7 flat red. Next, there
                         were some small decals the instructions called for that would be the screens of the MFDs in both the pilot's and CPG's seats.
                         They were were a blank green to indicate they were not turned on, which would work perfect since I planned to have this helicopter
-                        be parked on the ground with the canopy's open. Once those were applied I tried somethng new that I had seen online at the time;
+                        be parked on the ground with the canopies open. Once those were applied I tried somethng new that I had seen online at the time;
                         I covered the decals in a layer of X-22 gloss clear to give them the sheen a proper screen would have. The issue I had with this method
                         was that it never really dried in a consistent clear layer like I had hoped it would. I believe this was due to the fact that the
                         varnish was thinned since it was the stuff I usually use with my airbrush, I would like to try it once more in the future with a
@@ -79,8 +79,8 @@ const AH1ZViper = () =>{
                         rotate from side to side. Before I realized the screw up, the extra thin cement has long since set. Additionally, the part at the very
                         end of the tail that I believe is used as a brace to stop the tail from hitting the ground in a hard landing, broke off and was devoured
                         by the carpet monster. I was shocked at the appetite of the carpet monster this time since parts that big don't usually go missing, but alas,
-                        the search for it proved fruitless. Despite this setback though, I was able to fashion and make a replacement out of some varrying thickness
-                        PLA sheets I had lying around. I used the instructions to give me some approximate dimmensions for the piece and was able to make something
+                        the search for it proved fruitless. Despite this setback though, I was able to fashion and make a replacement out of some
+                        PLA sheets of varying thickness I had lying around. I used the instructions to give me some approximate dimmensions for the piece and was able to make something
                         I think is a suitable replacement; just promise me you won't look too closely at it.
                     </p>
 
@@ -152,7 +152,7 @@ const AH1ZViper = () =>{
                         did and thus, they weren't sealed entirely by the gloss clear coat. This meant that when I used the wash to go over some of the rivets they were sitting on top
                         of, the wash flowed under the decals and created a very pronounced area where the wash had pooled in certain areas. This was a bit disappointing since there
                         really wasn't anything I could do to fix it without completely removing, and likely destroying the decals. Next time, I need to really make sure that the decals
-                        are all completely set so tehy get sealed properly by the gloss clear coat.
+                        are all completely set so they get sealed properly by the gloss clear coat.
                     </p>
 
                     <p className="Post-Text">

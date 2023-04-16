@@ -20,7 +20,7 @@ const MGGundams = () =>{
                     <a href="/" className="Page-Link">
                         <img src={RFAstrayImage} className="Thumbnail" alt="RFAstray-Thumbnail"></img>
                     </a>
-                    <h2>Red-Frame Astray</h2>
+                    <h2 className="Title">Red-Frame Astray</h2>
                 </Card>
             </CardGrid>
         </>

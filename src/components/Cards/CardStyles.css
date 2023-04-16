@@ -7,6 +7,7 @@
     min-height: 350px;
     width: 300px;
     text-align: center;
+    position: relative;
 }
 
 .Card:hover{
@@ -17,4 +18,10 @@
     margin: auto;
     width: 80%;
     padding: 10px;
+}
+
+.Title{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }

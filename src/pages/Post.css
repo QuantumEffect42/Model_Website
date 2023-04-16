@@ -1,5 +1,5 @@
 .Titlebar, .Post{
-    margin:auto;
+    margin: auto;
     width: 50%;
     text-align: left;
     font-family: 'Cormorant Garamond';
@@ -10,6 +10,7 @@
     font-weight: normal;
     margin-bottom: 25px;
     font-size: 28pt;
+    text-align: center;
 }
 
 .Post-Embed-Image{
@@ -20,6 +21,7 @@
 
 .Kit-Desc{
     font-size: 17pt;
+    text-align: center;
 }
 
 .Post-Text{

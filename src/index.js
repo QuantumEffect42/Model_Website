@@ -13,6 +13,7 @@ import Ground35 from './pages/Ground/35thScale';
 import Ground42 from './pages/Ground/42ndScale';
 import MGGundams from './pages/Gundams/MG';
 import RGGundams from './pages/Gundams/RG';
+import Dynames from './pages/Gundams/MasterGrades/Dynames';
 
 const router = createBrowserRouter([
   {
@@ -42,6 +43,10 @@ const router = createBrowserRouter([
   {
     path: "/RGGundams",
     element: <RGGundams />
+  },
+  {
+    path: "/Dynames",
+    element: <Dynames />
   },
 ]);
 

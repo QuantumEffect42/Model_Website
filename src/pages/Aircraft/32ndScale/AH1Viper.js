@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../../../components/Navbar/Header";
-import "../Post.css"
+import "../../Post.css"
 import image1 from "../../../images/Aircraft/AH1Viper/20221125_000556.jpg"
 import image2 from "../../../images/Aircraft/AH1Viper/20220326_012849_HDR.jpg"
 import image3 from "../../../images/Aircraft/AH1Viper/20220401_004842.jpg"

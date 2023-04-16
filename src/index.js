@@ -25,7 +25,7 @@ const router = createBrowserRouter([
     element: <Ground35 />
   },
   {
-    path: "/142GrondVehicles",
+    path: "/142GroundVehicles",
     element: <Ground42 />
   },
   {

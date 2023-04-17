@@ -17,7 +17,7 @@ const MGGundams = () =>{
                     <h2 className="Title">GN-002 Dynames</h2>
                 </Card>
                 <Card>
-                    <a href="/" className="Page-Link">
+                    <a href="/RedFrameAstray" className="Page-Link">
                         <img src={RFAstrayImage} className="Thumbnail" alt="RFAstray-Thumbnail"></img>
                     </a>
                     <h2 className="Title">Red-Frame Astray</h2>

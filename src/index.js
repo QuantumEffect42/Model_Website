@@ -14,6 +14,10 @@ import Ground42 from './pages/Ground/42ndScale';
 import MGGundams from './pages/Gundams/MG';
 import RGGundams from './pages/Gundams/RG';
 import Dynames from './pages/Gundams/MasterGrades/Dynames';
+import RedFrameAstray from './pages/Gundams/MasterGrades/RedFrameAstray';
+import WingZero from './pages/Gundams/RealGrades/WingZero';
+import AH1ZViper from './pages/Aircraft/32ndScale/AH1Viper';
+import F14ATomcat from './pages/Aircraft/48thScale/F14A';
 
 const router = createBrowserRouter([
   {
@@ -47,6 +51,22 @@ const router = createBrowserRouter([
   {
     path: "/Dynames",
     element: <Dynames />
+  },
+  {
+    path: "/RedFrameAstray",
+    element: <RedFrameAstray />
+  },
+  {
+    path: "/WingZero",
+    element: <WingZero />
+  },
+  {
+    path: "/AH1ZViper",
+    element: <AH1ZViper />
+  },
+  {
+    path: "/F14ATomcat",
+    element: <F14ATomcat />
   },
 ]);
 

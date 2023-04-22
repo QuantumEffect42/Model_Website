@@ -24,6 +24,8 @@ import M2A2Bradley from './pages/Ground/35thScale/M2A2Bradley';
 import PantherG from './pages/Ground/35thScale/PantherG';
 import Panzer4J from './pages/Ground/35thScale/Panzer4J';
 import Tiger1 from './pages/Ground/42ndScale/Tiger1';
+import OtherModels from './pages/Other/Other';
+import HitachiExcavator from './pages/Other/48thScale/Excavator';
 
 const router = createBrowserRouter([
   {
@@ -53,6 +55,10 @@ const router = createBrowserRouter([
   {
     path: "/RGGundams",
     element: <RGGundams />
+  },
+  {
+    path: "/OtherModels",
+    element: <OtherModels />
   },
   {
     path: "/Dynames",
@@ -97,6 +103,10 @@ const router = createBrowserRouter([
   {
     path: "/Tiger1Early",
     element: <Tiger1 />
+  },
+  {
+    path: "/HitachiExcavator",
+    element: <HitachiExcavator />
   },
 ]);
 

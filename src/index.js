@@ -18,6 +18,12 @@ import RedFrameAstray from './pages/Gundams/MasterGrades/RedFrameAstray';
 import WingZero from './pages/Gundams/RealGrades/WingZero';
 import AH1ZViper from './pages/Aircraft/32ndScale/AH1Viper';
 import F14ATomcat from './pages/Aircraft/48thScale/F14A';
+import Flak88 from './pages/Ground/35thScale/Flak88';
+import M1A2Abrams from './pages/Ground/35thScale/M1A2Abrams';
+import M2A2Bradley from './pages/Ground/35thScale/M2A2Bradley';
+import PantherG from './pages/Ground/35thScale/PantherG';
+import Panzer4J from './pages/Ground/35thScale/Panzer4J';
+import Tiger1 from './pages/Ground/42ndScale/Tiger1';
 
 const router = createBrowserRouter([
   {
@@ -67,6 +73,30 @@ const router = createBrowserRouter([
   {
     path: "/F14ATomcat",
     element: <F14ATomcat />
+  },
+  {
+    path: "/Flak88",
+    element: <Flak88 />
+  },
+  {
+    path: "/M1A2Abrams",
+    element: <M1A2Abrams />
+  },
+  {
+    path: "/M2A2Bradley",
+    element: <M2A2Bradley />
+  },
+  {
+    path: "/PantherG",
+    element: <PantherG />
+  },
+  {
+    path: "/Panzer4J",
+    element: <Panzer4J />
+  },
+  {
+    path: "/Tiger1Early",
+    element: <Tiger1 />
   },
 ]);
 
